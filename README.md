@@ -1,4 +1,4 @@
-# Welcome to [Ayush Jayswar](https://github.com/Dipanshugp) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Ayush Jayswar](https://github.com/ayushjayswra-web) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <p align="left">
 
@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:dipanshugp55@gmail.com" target="_blank">
+<a href="mailto:ayushjayswra@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
 
@@ -30,7 +30,7 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 - 💬 Ask me about **Python, GitHub, Projects**
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/)
-- 📫 Reach me: **dipanshugp55@gmail.com**
+- 📫 Reach me: **ayushjayswra@gmail.com**
 - 💪 Building projects to become job-ready
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
