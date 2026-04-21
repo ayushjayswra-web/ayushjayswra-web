@@ -21,20 +21,8 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="350" />
 
-### Talking about Personal Stuff:
-
-- 👨‍🎓 I'm a **Student & Aspiring Software Developer**
-- 💻 I’m currently working on **Python Projects**
-- 🤖 Learning **Machine Learning & AI**
-- 📚 Practicing **Data Structures & Algorithms**
-- 💬 Ask me about **Python, GitHub, Projects**
-- 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/)
-- 📫 Reach me: **ayushjayswra@gmail.com**
-- 💪 Building projects to become job-ready
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Dipanshugp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+
 
 ---
 
@@ -43,13 +31,10 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 
 <br>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dipanshugp&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dipanshugp&layout=compact&theme=tokyonight" />
-</p>
+
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dipanshugp&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ayushjayswra-web&theme=tokyonight" />
 </p>
 
 </details>
