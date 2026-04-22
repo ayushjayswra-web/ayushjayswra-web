@@ -1,4 +1,4 @@
-# Welcome to [Ayush Jayswar](https://github.com/ayushjayswra) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Ayush Jayswar](https://github.com/ayushjayswar) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <p align="left">
 
